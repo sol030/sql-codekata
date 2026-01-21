@@ -2,7 +2,7 @@
 -- 프로그래머스 (미등록 문제)
 -- 문제 링크: https://school.programmers.co.kr/learn/courses/30/lessons/299307
 -- 작성자: 조은솔
--- 작성일: 2026. 01. 21. 10:47:02
+-- 작성일: 2026. 01. 21. 10:47:20
 
 SELECT 
     id,
