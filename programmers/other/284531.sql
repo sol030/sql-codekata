@@ -2,7 +2,7 @@
 -- 프로그래머스 (미등록 문제)
 -- 문제 링크: https://school.programmers.co.kr/learn/courses/30/lessons/284531
 -- 작성자: 조은솔
--- 작성일: 2026. 02. 03. 14:04:14
+-- 작성일: 2026. 02. 03. 14:14:07
 
 SELECT
     route,
